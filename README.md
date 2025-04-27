@@ -17,6 +17,12 @@ Think of Adepost as a digital version of a community noticeboard—simple, secur
 - Dynamic Key Generation: Ensuring only users within the same location and timeframe can interact with posts for added privacy and localization.
 - Zero Host Architecture: Bypasses traditional server-based models, relying solely on real-time, peer-to-peer communication.
 
+## Open Source Vision
+Adepost isn't just an app, it's also a backbone for developers looking to create peer-to-peer applications without the need for servers or centralized infrastructure.
+- Build your own projects: Leverage Adepost's architecture to create decentralized solutions for communication, networking, and more.
+- Collaborate: Contribute to the repository to enhance features and refine the underlying technology.
+- Innovate: Extend the concept of zero-host applications in new and creative directions.
+
 ## More Info
 This repository serves as the home of the Adepost idea, with plans to evolve it into a fully functional app. Contributions and collaborators are always welcome! The first commits will start rolling out once time allows for active development.
 
