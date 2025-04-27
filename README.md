@@ -1,4 +1,6 @@
 # Adepost
+The app Name is a play on the word Adipose. Like Adipose Tissue or Animal Fat.
+
 ![Adepost Fat Cat Logo](Logo.png)
 ## Mockup
 ![Adepost Mockup Standin](Mockup.png)
