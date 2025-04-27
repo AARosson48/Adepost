@@ -3,6 +3,6 @@
 ## Mockup
 ![Adepost Mockup Standin](Mockup.png)
 ## Description
-Zero Host, Community App created in .Net MAUI
+localized peer-to-peer Community App created in .Net MAUI
 ## More Info
-This just to house the IDEA till I can find the time to post up my first real commit.
+This just to house the Idea till I can find the time to post up my first real commit.
