@@ -3,6 +3,6 @@
 ## Mockup
 ![Adepost Mockup Standin](Mockup.png)
 ## Description
-localized peer-to-peer Community App created in .Net MAUI
+Localized peer-to-peer Community App created with .Net MAUI in mind
 ## More Info
 This just to house the Idea till I can find the time to post up my first real commit.
